@@ -1,0 +1,138 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+}
+.killo{
+    margin: 0 auto;
+    padding: 0 120px;
+}
+.header{
+    width: 1440px;
+    height: 1024px;
+    border: 2px solid red;
+    background-image: url(img\ 2.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.superman{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.superman ul{
+    display: flex;
+    gap: 78px;
+}
+.superman ul li{
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 27.84px;
+    color: yellow;
+}
+.superman ul li:hover{
+    color: white;
+}
+.ooo{
+    color: white;
+}
+.iji{
+    background-color: yellow;
+}
+.mingle{
+    
+    background-color: black;
+   
+}
+.spin{
+    margin: 0 auto;
+    padding: 0 120px;
+}
+.kinder{
+    background-color: black;
+    
+}
+.magic{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.magic ul{
+    display: flex;
+    gap: 78px;
+}
+.magic ul li{
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 27.84px;
+    color: white;
+    background-color: grey;
+    margin: 0 auto;
+}
+.human{
+    background-color: grey;
+}
+.youtube{
+    width: 1530px;
+    height: 1100px;
+    background-image: url(img\ 4.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    
+
+
+}
+.kompot{
+    width: 235px;
+    height: 73px;
+    top: 500px;
+    left: 498px;
+    background-color: #F1A900;
+    color: black;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 48.41px;
+    align-items: center;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin: 0 auto;
+    padding-top: 475;
+    justify-content: space-between;
+
+}
+.blox{
+    width: 235px;
+    height: 73px;
+    top: 475px;
+    left: 453px;
+    background-color: #000000;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin: 0 auto;
+    padding-top: 475;
+    justify-content: space-between;
+
+}
+.home{
+    width: 794px;
+    height: 123px;
+    background-color: #F1A90054;
+    color: white;
+    border-radius: 30px;
+    text-align: center;
+    align-content: center;
+    margin: 44px auto;
+}
